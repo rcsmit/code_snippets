@@ -1,4 +1,4 @@
-# CVarious code snippets
+# Various code snippets
 
 ## Email from Google sheets
 Sending emails from Google sheets. Not tested with high number of emails
